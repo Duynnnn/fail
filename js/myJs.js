@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "Chào bạn Hưng",
-  text2: "Bạn Duyn có điều muốn nói",
+  text2: "Bạn Duyn có điều muốn nói ◠‿◠",
   text3: "Anh có yêu em hong???",
   text4: "Trả lời hoặc ăn đấm nha ☠️",
   text5: "Yêu sương sương thôi ◣_◢",
   text6: "Yêu ơi là yêuuuuuu ❤️",
   text7: "Nhưng sao lại yêu cơ",
-  text8: "Ỏoooooo",
+  text8: "Ỏoooooo ◔◡◔",
   text9: "Vì em ngoan, hiền, dịu dàng lại còn đảm đang",
   text10: "Hí hí em biết mà. Em cũng yêu anh",
   text11:
     "Happy our first Valentine!!!",
-  text12: "Ấn vào đây (Pass là số ngày mình iu nhau)",
+  text12: "Ấn vào đây (Pass là số ngày mình iu nhau nha)",
 };
 
 $(document).ready(function () {
