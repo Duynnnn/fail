@@ -38,7 +38,7 @@ $(document).ready(function () {
       imageUrl: "img/4855072.jpg",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#fff url("img/iu.jpg")',
+      background: '#fff url("img/V.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
